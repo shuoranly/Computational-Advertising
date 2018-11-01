@@ -1,2 +1,2 @@
-# CTR
-Computational Advertising   CTR
+# Computational Advertising
+Computational Advertising Papers
